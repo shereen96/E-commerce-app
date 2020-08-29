@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830161230237",
+    "firebase_url": "https://wacproject-f8dad.firebaseio.com",
+    "project_id": "wacproject-f8dad",
+    "storage_bucket": "wacproject-f8dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830161230237:android:338dd65bd36109a4547774",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830161230237-olb7toa5pi8qkj51n2s8cfipc03odb7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAqFE0OznOGwU8MgR94AoszGqFZtP5Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830161230237-olb7toa5pi8qkj51n2s8cfipc03odb7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
